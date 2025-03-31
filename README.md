@@ -14,3 +14,7 @@ abcdef
 am3287
 ## Favorite Professor
 ufildbfuil
+## EUID
+ss2303
+## Favorite Professor
+Curtis Chambers
